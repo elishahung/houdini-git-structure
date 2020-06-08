@@ -1,4 +1,7 @@
-Houdini 存檔時選擇 `Save As Text`，然後將存成的 hip 檔案解構產生資料結構並做 git，可以更好的管理版本。
+Houdini 存檔時選擇 `Save As Text`，然後將存成的 hip 檔案解析產生資料結構並餵给 git 來管理。
+
+git 更動範例: https://github.com/elishahung/hip-structure-generator/commit/335c534d429982b016fd98d4dc7cbcb10a302264
+可以更好看見參數變更，節點關係改動，去做更好的版本控制。
 
 資料生成結構範例
 ```
