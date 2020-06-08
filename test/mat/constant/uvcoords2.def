@@ -1,0 +1,29 @@
+
+comment ""
+position 21.6585 -3.33563
+connectornextid 0
+flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress off colordefault off exposed on lowdetail off mediumdetail off highdetail on material off
+outputsNamed3
+{
+3 "uv"
+4 "s"
+5 "t"
+}
+inputsNamed3
+{
+}
+inputs
+{
+}
+stat
+{
+  create 1191451607
+  modify 1490084395
+  author liza@chaos
+  access 0777
+}
+color UT_Color RGB 0.6 0.4 1 
+delscript ""
+exprlanguage hscript
+end
+

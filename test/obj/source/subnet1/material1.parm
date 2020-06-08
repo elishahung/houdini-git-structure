@@ -1,0 +1,23 @@
+
+{
+version 0.8
+style	[ 0	locks=0 ]	(	primitive	)
+uselabels	[ 0	locks=0 ]	(	"uselabels"	)
+createstylesheets	[ 0	locks=0 ]	(	"off"	)
+fullpath	[ 0	locks=0 ]	(	"on"	)
+num_materials	[ 0	locks=0 ]	(	1	)
+group1	[ 0	locks=0 ]	(	""	)
+shop_materialpath1	[ 0	locks=0 ]	(	../matnet/constant	)
+localvar1	[ 0	locks=0 ]	(	"off"	)
+mergeoverride1	[ 0	locks=0 ]	(	"off"	)
+num_local1	[ 0	locks=0 ]	(	1	)
+local1_menu1	[ 0	locks=0 ]	(	0	)
+local1_name1	[ 0	locks=0 ]	(	dif_map	)
+local1_type1	[ 0	locks=0 ]	(	string	)
+local1_ival1	[ 0	locks=0 ]	(	0	)
+local1_fval1	[ 0	locks=0 ]	(	0	)
+local1_sval1	[ 0	locks=0 ]	(	""	)
+local1_cval1	[ 0	locks=0 ]	(	0	0	0	)
+local1_vval1	[ 0	locks=0 ]	(	0	0	0	0	)
+}
+

@@ -1,0 +1,40 @@
+
+{
+	"___Version___":{
+		"type":"string",
+		"value":""
+	},
+	"___toolcount___":{
+		"type":"string",
+		"value":"176"
+	},
+	"___toolid___":{
+		"type":"string",
+		"value":"convertGallery"
+	},
+	"__inputgroup_Bump & Normals":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Displacement":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Opacity":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Settings":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Surface":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Textures":{
+		"type":"string",
+		"value":"collapsed"
+	}
+}
+

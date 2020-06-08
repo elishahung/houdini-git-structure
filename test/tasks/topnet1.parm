@@ -1,0 +1,18 @@
+
+{
+version 0.8
+cookcontrolssection	[ 0	locks=0 ]	(	0	)
+generatestatic	[ 0	locks=0 ]	(	0	)
+cookbutton	[ 0	locks=0 ]	(	0	)
+dirtybutton	[ 0	locks=0 ]	(	0	)
+cancelbutton	[ 0	locks=0 ]	(	0	)
+taskgraphsection	[ 0	locks=0 ]	(	0	)
+savetaskgraph	[ 0	locks=0 ]	(	0	)
+loadtaskgraph	[ 0	locks=0 ]	(	0	)
+taskgraphfile	[ 0	locks=0 ]	(	$HIP/$HIPNAME.taskgraph.$F.py	)
+taskgraphautosave	[ 0	locks=0 ]	(	"off"	)
+taskgraphsaverate	[ 0	locks=0 ]	(	10	)
+schedulersection	[ 0	locks=0 ]	(	0	)
+topscheduler	[ 0	locks=0 ]	(	localscheduler	)
+}
+

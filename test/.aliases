@@ -1,0 +1,13 @@
+
+alias bye 'quit'
+alias cd 'opcf'
+alias cp 'opcp'
+alias h 'history'
+alias hython 'python'
+alias ls 'opls'
+alias matramp 'opramp'
+alias opcd 'opcf'
+alias oppwd 'oppwf'
+alias pwd 'oppwf'
+alias rm 'oprm'
+

@@ -1,0 +1,15 @@
+
+{
+version 0.8
+bake_path	[ 0	locks=0 ]	(	$HIP/render/	)
+filename	[ 0	locks=0 ]	(	building_a	)
+res	[ 0	locks=0 ]	(	1024	)
+vm_extractimageplanesformat	[ 0	locks=0 ]	(	JPEG	)
+sepparm	[ 0	locks=0 ]	(	)
+vm_uvobject1	[ 0	locks=0 ]	(	/obj/__target	)
+vm_uvhires1	[ 0	locks=0 ]	(	/obj/__source	)
+btn_bake	[ 0	locks=0 ]	(	0	)
+sepparm2	[ 0	locks=0 ]	(	)
+preview	[ 0	locks=0 ]	(	"off"	)
+}
+

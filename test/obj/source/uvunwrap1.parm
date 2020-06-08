@@ -1,0 +1,14 @@
+
+{
+version 0.8
+uvattrib	[ 0	locks=0 ]	(	uv	)
+group	[ 0	locks=0 ]	(	""	)
+planegroup	[ 0	locks=0 ]	(	""	)
+nplanes	[ 0	locks=0 ]	(	"planes6"	)
+layout	[ 0	locks=0 ]	(	"square"	)
+scale	[ 0	locks=0 ]	(	"uniform"	)
+spacing	[ 0	locks=0 ]	(	0	)
+rOrd	[ 0	locks=0 ]	(	"xyz"	)
+r	[ 0	locks=0 ]	(	0	0	0	)
+}
+

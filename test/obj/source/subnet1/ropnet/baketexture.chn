@@ -1,0 +1,53 @@
+
+{
+    channel f1 {
+      lefttype = extend
+      righttype = extend
+      default = 1
+      flags = 0
+      segment { length = 0 value = 1 1 expr = $FSTART }
+    }
+    channel f2 {
+      lefttype = extend
+      righttype = extend
+      default = 240
+      flags = 0
+      segment { length = 0 value = 240 240 expr = $FEND }
+    }
+    channel vm_extractimageplanesformat {
+      lefttype = extend
+      righttype = extend
+      defaultString = \"JPEG\"
+      flags = 0
+      segment { length = 0 expr = chs(\"../../vm_extractimageplanesformat\") }
+    }
+    channel vm_uvobject1 {
+      lefttype = extend
+      righttype = extend
+      defaultString = \"\"
+      flags = 0
+      segment { length = 0 expr = chsop(\"../../vm_uvobject1\") }
+    }
+    channel vm_uvhires1 {
+      lefttype = extend
+      righttype = extend
+      defaultString = \"\"
+      flags = 0
+      segment { length = 0 expr = chsop(\"../../vm_uvhires1\") }
+    }
+    channel vm_uvunwrapresx {
+      lefttype = extend
+      righttype = extend
+      default = 1024
+      flags = 0
+      segment { length = 0 value = 1024 1024 expr = ch(\"../../res\") }
+    }
+    channel vm_uvunwrapresy {
+      lefttype = extend
+      righttype = extend
+      default = 1024
+      flags = 0
+      segment { length = 0 value = 1024 1024 expr = ch(\"../../res\") }
+    }
+  }
+

@@ -1,0 +1,32 @@
+
+{
+version 0.8
+folder1	[ 0	locks=0 ]	(	0	)
+uvattrib	[ 0	locks=0 ]	(	uv	)
+method	[ 0	locks=0 ]	(	"4"	)
+fuse_distance	[ 0	locks=0 ]	(	0.01	)
+num_points	[ 0	locks=0 ]	(	25	)
+convex_multiplier	[ 0	locks=0 ]	(	0.10000000000000001	)
+occlusion_multiplier	[ 0	locks=0 ]	(	1	)
+num_clusters	[ 0	locks=0 ]	(	30	)
+normal_blur_cluster	[ 0	locks=0 ]	(	1	)
+random_seed	[ 0	locks=0 ]	(	0	)
+blur_amount	[ 0	locks=0 ]	(	0	)
+nplanes	[ 0	locks=0 ]	(	"planes6"	)
+graintol	[ 0	locks=0 ]	(	0.12	)
+mergethreshold	[ 0	locks=0 ]	(	0.5	)
+folder0	[ 0	locks=0 ]	(	0	)
+merge_small_islands	[ 0	locks=0 ]	(	"off"	)
+small_island_cutoff	[ 0	locks=0 ]	(	0.01	)
+optimize_uv_border	[ 0	locks=0 ]	(	"on"	)
+method2	[ 0	locks=0 ]	(	"abf"	)
+orientation_mode	[ 0	locks=0 ]	(	"20"	)
+packing_iterations	[ 0	locks=0 ]	(	1	)
+layout_padding	[ 0	locks=0 ]	(	2	)
+resolution	[ 0	locks=0 ]	(	"res3"	)
+spacer	[ 0	locks=0 ]	(	""	)
+like_tool	[ 0	locks=0 ]	(	0	)
+dont_like	[ 0	locks=0 ]	(	0	)
+cusp_angle	[ 0	locks=0 ]	(	0	)
+}
+

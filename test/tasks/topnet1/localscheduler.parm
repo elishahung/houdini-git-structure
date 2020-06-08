@@ -1,0 +1,27 @@
+
+{
+version 0.8
+folder0	[ 0	locks=0 ]	(	0	0	)
+pdg_workingdir	[ 0	locks=0 ]	(	$HIP	)
+folder1	[ 0	locks=0 ]	(	0	)
+tempdirmenu	[ 0	locks=0 ]	(	"1"	)
+tempdirappendpid	[ 0	locks=0 ]	(	"on"	)
+tempdircustom	[ 0	locks=0 ]	(	$HOUDINI_TEMP_DIR/$HIPNAME/pdgtemp	)
+maxprocsmenu	[ 0	locks=0 ]	(	"0"	)
+maxprocs	[ 0	locks=0 ]	(	1	)
+socketcallbacks	[ 0	locks=0 ]	(	1	)
+folder0_2	[ 0	locks=0 ]	(	0	)
+local_single	[ 0	locks=0 ]	(	"off"	)
+local_is_CPU_number_set	[ 0	locks=0 ]	(	"off"	)
+local_CPUs_to_use	[ 0	locks=0 ]	(	1	)
+folder2	[ 0	locks=0 ]	(	0	)
+local_echandleby	[ 0	locks=0 ]	(	"0"	)
+local_echandleall	[ 0	locks=0 ]	(	"on"	)
+local_eccustomcode	[ 0	locks=0 ]	(	1	)
+folder3	[ 0	locks=0 ]	(	0	)
+local_usehoudinimaxthreads	[ 0	locks=0 ]	(	"off"	)
+local_houdinimaxthreads	[ 0	locks=0 ]	(	0	)
+local_requireswindow	[ 0	locks=0 ]	(	"off"	)
+local_envmulti	[ 0	locks=0 ]	(	0	)
+}
+

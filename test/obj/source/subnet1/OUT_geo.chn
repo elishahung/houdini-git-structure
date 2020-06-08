@@ -1,0 +1,10 @@
+
+{
+    channel input {
+      lefttype = extend
+      righttype = extend
+      flags = 0
+      segment { length = 0 expr = ch(\"../preview\") }
+    }
+  }
+

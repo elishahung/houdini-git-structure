@@ -1,0 +1,20 @@
+
+{
+	"___Version___":{
+		"type":"string",
+		"value":"18.0.391"
+	},
+	"__inputgroup_Compile":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_OpenGL":{
+		"type":"string",
+		"value":"collapsed"
+	},
+	"__inputgroup_Surface":{
+		"type":"string",
+		"value":"collapsed"
+	}
+}
+
