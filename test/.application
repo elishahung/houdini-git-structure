@@ -179,19 +179,19 @@ viewonionskin  -e on -a 4 -b 4 -i 6 -o 0.5 -A 1 1 1 -B 1 1 1 Build.panetab1.worl
 viewsnapshotoption -s off -h off -a 1 -v '*' -m 0 Build.panetab1.world
 cplane -o 0 0 0 -n 4.37114e-08 1 -4.37114e-08 -x 1.91069e-15 4.37114e-08 1 -l n -s 0.1 0.1 -c 40 40 -r 10 10 -d off Build.panetab1.world
 glcache -t 1638 -v 6553
-panepath -d Build -f -p panetab14 /obj/source/subnet1
-panepath -d Build -f -p panetab1 /obj/source/subnet1
-panepath -d Build -f -p panetab2 /obj/source/subnet1
-panepath -d Build -f -p panetab3 /obj/source/subnet1
+panepath -d Build -f -p panetab14 /obj/source
+panepath -d Build -f -p panetab1 /obj/source
+panepath -d Build -f -p panetab2 /obj/source
+panepath -d Build -f -p panetab3 /obj/source
 panepath -d Build -f -p panetab4 /img/
 panepath -d Build -f -p panetab13 /ch/
-panepath -d Build -f -p panetab11 /obj/source/subnet1
-panepath -d Build -f -p panetab5 /obj/source/subnet1
-panepath -d Build -f -p panetab6 /obj/source/subnet1
+panepath -d Build -f -p panetab11 /obj/source
+panepath -d Build -f -p panetab5 /obj/source
+panepath -d Build -f -p panetab6 /obj/source
 panepath -d Build -f -p panetab12 /obj/
-panepath -d Build -f -p panetab7 /obj/source/subnet1
+panepath -d Build -f -p panetab7 /obj/source
 panepath -d Build -f -p panetab8 /obj/
-panepath -d Build -f -p panetab9 /obj/source/subnet1
+panepath -d Build -f -p panetab9 /obj/source
 panepath -d Build -f -p panetab10 /obj/
 desk set Build
 viewupdate -u always
